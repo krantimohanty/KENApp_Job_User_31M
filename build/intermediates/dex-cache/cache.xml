@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\suchismita.p\Documents\ESSAppLeave\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="C:\Users\suchismita.p\Documents\ESSAppLeave\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.1.1_d95b436b0b1d291bb5e4d1d10c910fb24b900b93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\suchismita.p\Documents\ESSAppLeave\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\suchismita.p\Documents\ESSAppLeave\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.1_4d0e58a9af26f12b609c3e353c2abb163ff3a383.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\suchismita.p\Documents\ESSAppLeave\app\build\intermediates\exploded-aar\ESSAppLeave\materialcalendarview\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb7c846a01951442f1dc84bde52f53bf0bcf8e4e">
+        <dex dex="C:\Users\suchismita.p\Documents\ESSAppLeave\app\build\intermediates\pre-dexed\debug\ESSAppLeave-materialcalendarview-unspecified_c49892b113bcc6c78a16a1ccbc167e524d94d2fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\suchismita.p\Documents\ESSAppLeave\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\suchismita.p\Documents\ESSAppLeave\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.1_fa66c44c59b80fac32d1a4d223971c5705b9a15a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\suchismita.p\Documents\ESSAppLeave\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Users\suchismita.p\Documents\ESSAppLeave\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.1_12c48ece5119b29a8eb3d97b674729d55e980abf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\suchismita.p\Documents\ESSAppLeave\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\suchismita.p\Documents\ESSAppLeave\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.1_fc7399cf25ae481225b7a96af8e7ce3ece940664.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\suchismita.p\Documents\ESSAppLeave\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\suchismita.p\Documents\ESSAppLeave\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.1_211b9d826a5a7e2a7c686ca3790369e7ea4294c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\suchismita.p\.gradle\caches\modules-2\files-2.1\joda-time\joda-time\2.9.7\6eb2e87ddb09e944bb88f06f19ba0638d4607ffd\joda-time-2.9.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6eb2e87ddb09e944bb88f06f19ba0638d4607ffd">
+        <dex dex="C:\Users\suchismita.p\Documents\ESSAppLeave\app\build\intermediates\pre-dexed\debug\joda-time-2.9.7_05cebd8fde8f67e3e127461b744e6613be36ad5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\suchismita.p\Documents\ESSAppLeave\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="C:\Users\suchismita.p\Documents\ESSAppLeave\app\build\intermediates\pre-dexed\debug\com.jakewharton-butterknife-8.4.0_425e783995ff3954a0db670aa0d628d1e867cbc7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\suchismita.p\Documents\ESSAppLeave\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\suchismita.p\Documents\ESSAppLeave\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.1_724da10d34044cb1d964ba4bb10b9676a54bf20e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\suchismita.p\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.4.0\ea392375cf9ff59234a82e7928a204215ccc98cd\butterknife-annotations-8.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="C:\Users\suchismita.p\Documents\ESSAppLeave\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.4.0_50ca0c2780f376b2dbefd782a6d6bd372cb4a44b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\suchismita.p\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\suchismita.p\Documents\ESSAppLeave\app\build\intermediates\pre-dexed\debug\library-2.4.0_af70322df6d6a6b2173e8b2fe424419942578228.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\suchismita.p\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Users\suchismita.p\Documents\ESSAppLeave\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.1_c2de2dc64b414f95608df8fc04a677c7b879d84c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\suchismita.p\Documents\ESSAppLeave\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="C:\Users\suchismita.p\Documents\ESSAppLeave\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.1_c1407ddb5d9c0050b5cca306ed697c683cb66d71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\suchismita.p\Documents\ESSAppLeave\app\build\intermediates\exploded-aar\com.android.support\design\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="C:\Users\suchismita.p\Documents\ESSAppLeave\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.1.1_5017f86395fcd17c5cf71e0232fb6dcee00081fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\suchismita.p\Documents\ESSAppLeave\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
+        <dex dex="C:\Users\suchismita.p\Documents\ESSAppLeave\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.1.1_21918dcbb94cd5fba05b434db28e3095cb27e200.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\suchismita.p\Documents\ESSAppLeave\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\suchismita.p\Documents\ESSAppLeave\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.1_a6b0dd4804cd752a7e7b6100d70944449ea5fbe6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\suchismita.p\Documents\ESSAppLeave\app\build\intermediates\exploded-aar\com.rengwuxian.materialedittext\library\2.0.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052802ed198178e7133de387fbc87d3f2998482a">
+        <dex dex="C:\Users\suchismita.p\Documents\ESSAppLeave\app\build\intermediates\pre-dexed\debug\com.rengwuxian.materialedittext-library-2.0.3_07eb7de57b8eed51e4f5a38ce55035aff8d70b6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\suchismita.p\Documents\ESSAppLeave\app\build\intermediates\exploded-aar\com.weiwangcn.betterspinner\library-material\1.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8d8c5463a1a50691e2cf66cd7ce4751c8545b584">
+        <dex dex="C:\Users\suchismita.p\Documents\ESSAppLeave\app\build\intermediates\pre-dexed\debug\com.weiwangcn.betterspinner-library-material-1.1.0_52833801cdf27880b62da792692acd70951c13f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\suchismita.p\Documents\ESSAppLeave\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\suchismita.p\Documents\ESSAppLeave\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.1_d55c1271ec83c5975274e5b9fa61550937971164.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\suchismita.p\Documents\ESSAppLeave\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\suchismita.p\Documents\ESSAppLeave\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.1_b531b67bd42e26092075dcf5f28988d5e284d667.jar" />
+    </item>
+
+</items>
